@@ -1,2 +1,3 @@
-# analise-vendas-python
- Análise de vendas com previsão de receita
+# Análise de Vendas e Projeção de Receita
+
+Este projeto analisa dados de vendas mensais de um e-commerce...
